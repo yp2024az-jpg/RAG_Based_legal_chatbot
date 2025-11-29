@@ -320,5 +320,6 @@ MIT License - see LICENSE file for details.
 ---
 
 **Made with ❤️ for legal research & justice** ⚖️
-#   R A G _ B a s e d _ l e g a l _ c h a t b o t  
+#   R A G _ B a s e d _ l e g a l _ c h a t b o t 
+ 
  
