@@ -1,0 +1,232 @@
+[
+  {
+    "id": "IPC_302",
+    "title": "Indian Penal Code - Section 302",
+    "jurisdiction": "India",
+    "category": "Criminal Law",
+    "year": 1860,
+    "content": "Punishment for Murder.\n        Whoever commits murder shall be punished with imprisonment of either description for a \n        term which may extend to life, or with rigorous imprisonment for a term which may extend \n        to ten years, and shall also be liable to fine, or to both. Exception: Death by accident \n        during lawful act is not murder.",
+    "created_at": "2025-11-29T18:53:11.676110",
+    "updated_at": "2025-11-29T18:53:11.676116"
+  },
+  {
+    "id": "IPC_420",
+    "title": "Indian Penal Code - Section 420",
+    "jurisdiction": "India",
+    "category": "Criminal Law",
+    "year": 1860,
+    "content": "Cheating and Dishonestly Inducing Delivery of Property.\n        Whoever cheats and thereby dishonestly induces the person deceived to deliver any \n        property to any person, or to make, alter or destroy the whole or any part of a valuable \n        security, or anything which is signed or sealed, with the intent that it may be used as \n        a valuable security, shall be punished with imprisonment of either description for a term \n        which may extend to seven years, and shall also be liable to fine.",
+    "created_at": "2025-11-29T18:53:11.676120",
+    "updated_at": "2025-11-29T18:53:11.676121"
+  },
+  {
+    "id": "IPC_354",
+    "title": "Indian Penal Code - Section 354",
+    "jurisdiction": "India",
+    "category": "Criminal Law",
+    "year": 1860,
+    "content": "Assault or Criminal Force with Intent to Outrage Modesty.\n        Whoever assaults or uses criminal force to any person, intending to outrage or knowing \n        it to be likely that he will thereby outrage the modesty of that person, shall be punished \n        with imprisonment which may extend to three years, or with fine which may extend to two \n        thousand rupees, or with both.",
+    "created_at": "2025-11-29T18:53:11.676122",
+    "updated_at": "2025-11-29T18:53:11.676123"
+  },
+  {
+    "id": "IPC_376",
+    "title": "Indian Penal Code - Section 376",
+    "jurisdiction": "India",
+    "category": "Criminal Law",
+    "year": 1860,
+    "content": "Punishment for Rape.\n        Whoever commits rape shall be punished with imprisonment of either description for a \n        term which shall not be less than seven years but which may be for life, and shall also \n        be liable to fine. Rape may be committed even without penetration if there is physical \n        contact with sexual intent.",
+    "created_at": "2025-11-29T18:53:11.676124",
+    "updated_at": "2025-11-29T18:53:11.676125"
+  },
+  {
+    "id": "IPC_498A",
+    "title": "Indian Penal Code - Section 498A",
+    "jurisdiction": "India",
+    "category": "Criminal Law",
+    "year": 1860,
+    "content": "Cruelty by Husband or His Relative.\n        Whoever, being the husband or the relative of the husband of a woman, subjects such woman \n        to cruelty shall be punished with imprisonment for a term which may extend to three years \n        and shall also be liable to fine which may extend to one thousand rupees.",
+    "created_at": "2025-11-29T18:53:11.676126",
+    "updated_at": "2025-11-29T18:53:11.676127"
+  },
+  {
+    "id": "CRPC_154",
+    "title": "Criminal Procedure Code - Section 154",
+    "jurisdiction": "India",
+    "category": "Procedural Law",
+    "year": 1973,
+    "content": "Registration of First Information Report (FIR).\n        (1) Any person can lodge a First Information Report at the nearest police station regarding \n        any cognizable offence.\n        (2) The FIR must contain the basic facts and details of the alleged crime.\n        (3) If police refuse to register FIR, the person can approach the Magistrate under Section 156(3).",
+    "created_at": "2025-11-29T18:53:11.676128",
+    "updated_at": "2025-11-29T18:53:11.676129"
+  },
+  {
+    "id": "CRPC_161",
+    "title": "Criminal Procedure Code - Section 161",
+    "jurisdiction": "India",
+    "category": "Procedural Law",
+    "year": 1973,
+    "content": "Examination of Witnesses by Police.\n        Any police officer not below the rank of Sub-Inspector may examine any person supposed to \n        be acquainted with the facts and circumstances of the case. The examination shall be conducted \n        with due regard to the provisions of this Code and the Indian Evidence Act.",
+    "created_at": "2025-11-29T18:53:11.676130",
+    "updated_at": "2025-11-29T18:53:11.676131"
+  },
+  {
+    "id": "CRPC_164",
+    "title": "Criminal Procedure Code - Section 164",
+    "jurisdiction": "India",
+    "category": "Procedural Law",
+    "year": 1973,
+    "content": "Recording of Confessions and Statements.\n        When any person accused of an offence is arrested on a charge of committing an offence of \n        the description mentioned in sub-section (3), the police shall inform the person that he may \n        make a statement to a Magistrate. Any statement made to a Magistrate under this section \n        shall be recorded and shall not be used as evidence against the maker.",
+    "created_at": "2025-11-29T18:53:11.676132",
+    "updated_at": "2025-11-29T18:53:11.676132"
+  },
+  {
+    "id": "CRPC_498",
+    "title": "Criminal Procedure Code - Section 498",
+    "jurisdiction": "India",
+    "category": "Procedural Law",
+    "year": 1973,
+    "content": "Bail in Cognizable Cases.\n        In cases where bail is permissible, the police may release the accused on bail before or \n        after the lodging of FIR, without the permission of the Magistrate, on executing a bond.",
+    "created_at": "2025-11-29T18:53:11.676133",
+    "updated_at": "2025-11-29T18:53:11.676134"
+  },
+  {
+    "id": "ICA_1",
+    "title": "Indian Contract Act - Section 1",
+    "jurisdiction": "India",
+    "category": "Contract Law",
+    "year": 1872,
+    "content": "Definition of Contract.\n        An agreement enforceable by law is a contract. Agreement is made from offer and acceptance. \n        Agreement must be capable of being enforced by law to be a contract.",
+    "created_at": "2025-11-29T18:53:11.676135",
+    "updated_at": "2025-11-29T18:53:11.676136"
+  },
+  {
+    "id": "ICA_12",
+    "title": "Indian Contract Act - Section 12",
+    "jurisdiction": "India",
+    "category": "Contract Law",
+    "year": 1872,
+    "content": "Capacity to Contract.\n        Every person is competent to contract who is of the age of majority by the law to which he is \n        subject, and who is of sound mind, and is not disqualified from contracting by any law which \n        he is subject to.",
+    "created_at": "2025-11-29T18:53:11.676137",
+    "updated_at": "2025-11-29T18:53:11.676138"
+  },
+  {
+    "id": "ICA_65",
+    "title": "Indian Contract Act - Section 65",
+    "jurisdiction": "India",
+    "category": "Contract Law",
+    "year": 1872,
+    "content": "Obligation of Bailee when Goods are Bailed for Repair or Improvement.\n        When goods are bailed for repair or improvement, the bailee must restore the goods in good \n        condition within the time stipulated.",
+    "created_at": "2025-11-29T18:53:11.676139",
+    "updated_at": "2025-11-29T18:53:11.676139"
+  },
+  {
+    "id": "CPC_2",
+    "title": "Code of Civil Procedure - Section 2",
+    "jurisdiction": "India",
+    "category": "Procedural Law",
+    "year": 1908,
+    "content": "Definitions in Code of Civil Procedure.\n        (a) Appeal means an application to a Court of appeal by an appellant against a decree passed by \n        a court subordinate to it.\n        (b) Appellant means a party who appeals from a decree.\n        (c) Defendant means any person sued or proceeded against in a court of law.",
+    "created_at": "2025-11-29T18:53:11.676140",
+    "updated_at": "2025-11-29T18:53:11.676141"
+  },
+  {
+    "id": "CPC_8",
+    "title": "Code of Civil Procedure - Section 8",
+    "jurisdiction": "India",
+    "category": "Procedural Law",
+    "year": 1908,
+    "content": "Jurisdiction of Courts.\n        The jurisdiction of courts shall be determined by: (a) the territory within their jurisdiction, \n        (b) the subject matter of the suit, (c) the value of the suit.",
+    "created_at": "2025-11-29T18:53:11.676142",
+    "updated_at": "2025-11-29T18:53:11.676143"
+  },
+  {
+    "id": "IEA_3",
+    "title": "Indian Evidence Act - Section 3",
+    "jurisdiction": "India",
+    "category": "Evidence Law",
+    "year": 1872,
+    "content": "Application of Code to all Judicial Proceedings.\n        The provisions of this Act shall apply to all judicial proceedings in or before any Court, \n        including Courts Martial, other than proceedings before Parliament.",
+    "created_at": "2025-11-29T18:53:11.676144",
+    "updated_at": "2025-11-29T18:53:11.676145"
+  },
+  {
+    "id": "IEA_10",
+    "title": "Indian Evidence Act - Section 10",
+    "jurisdiction": "India",
+    "category": "Evidence Law",
+    "year": 1872,
+    "content": "Evidence of Facts Forming Part of Res Gestae.\n        Evidence of facts forming part of the same transaction is relevant whether the transaction is \n        one in issue or not.",
+    "created_at": "2025-11-29T18:53:11.676146",
+    "updated_at": "2025-11-29T18:53:11.676146"
+  },
+  {
+    "id": "COI_21",
+    "title": "Constitution of India - Article 21",
+    "jurisdiction": "India",
+    "category": "Constitutional Law",
+    "year": 1950,
+    "content": "Protection of Life and Personal Liberty.\n        No person shall be deprived of his life or personal liberty except according to procedure \n        established by law. This article has been interpreted broadly to include right to privacy, \n        right to health, right to education.",
+    "created_at": "2025-11-29T18:53:11.676147",
+    "updated_at": "2025-11-29T18:53:11.676148"
+  },
+  {
+    "id": "COI_14",
+    "title": "Constitution of India - Article 14",
+    "jurisdiction": "India",
+    "category": "Constitutional Law",
+    "year": 1950,
+    "content": "Equality Before Law.\n        The State shall not deny to any person equality before the law or the equal protection of the \n        laws within the territory of India.",
+    "created_at": "2025-11-29T18:53:11.676150",
+    "updated_at": "2025-11-29T18:53:11.676150"
+  },
+  {
+    "id": "ITA_66",
+    "title": "Information Technology Act - Section 66",
+    "jurisdiction": "India",
+    "category": "Commercial Law",
+    "year": 2000,
+    "content": "Computer-related Offences: Hacking.\n        Whoever, with the intent to cause or knowing that he is likely to cause wrongful loss or damage \n        to the public or any person, by destroying or deleting or altering any information residing in \n        a computer shall be punished with imprisonment up to 3 years and/or fine up to 5 lakh rupees.",
+    "created_at": "2025-11-29T18:53:11.676151",
+    "updated_at": "2025-11-29T18:53:11.676152"
+  },
+  {
+    "id": "ITA_79",
+    "title": "Information Technology Act - Section 79",
+    "jurisdiction": "India",
+    "category": "Commercial Law",
+    "year": 2000,
+    "content": "Exemption from Liability.\n        An intermediary shall not be liable for any third-party information, data, or communication link \n        made available or hosted by the intermediary if the intermediary has exercised due diligence.",
+    "created_at": "2025-11-29T18:53:11.676153",
+    "updated_at": "2025-11-29T18:53:11.676154"
+  },
+  {
+    "id": "BNS_101",
+    "title": "Bharatiya Nyaya Sanhita - Section 101",
+    "jurisdiction": "India",
+    "category": "Criminal Law",
+    "year": 2023,
+    "content": "Punishment for Murder.\n        Whoever commits murder shall be punished with life imprisonment or imprisonment up to \n        twenty years. This is part of new criminal code replacing IPC Section 302.",
+    "created_at": "2025-11-29T18:53:11.676155",
+    "updated_at": "2025-11-29T18:53:11.676156"
+  },
+  {
+    "id": "IL_11",
+    "title": "Industrial Disputes Act - Section 11",
+    "jurisdiction": "India",
+    "category": "Labor Law",
+    "year": 1947,
+    "content": "Submission of Disputes to Conciliation.\n        When a dispute has been referred or has deemed to have been referred to the Government, and \n        unless or until the dispute has been settled, the Government shall follow prescribed procedures.",
+    "created_at": "2025-11-29T18:53:11.676157",
+    "updated_at": "2025-11-29T18:53:11.676157"
+  },
+  {
+    "id": "TPA_5",
+    "title": "Transfer of Property Act - Section 5",
+    "jurisdiction": "India",
+    "category": "Property Law",
+    "year": 1882,
+    "content": "Transfer of Property.\n        An act by which a living person conveys property, in present, past or future, to one or more other \n        living persons, or to himself and one or more other living persons, is called a transfer of property.",
+    "created_at": "2025-11-29T18:53:11.676158",
+    "updated_at": "2025-11-29T18:53:11.676159"
+  }
+]

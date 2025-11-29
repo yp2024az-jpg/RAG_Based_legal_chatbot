@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ICA_1",
+    "title": "Indian Contract Act - Section 1",
+    "jurisdiction": "India",
+    "category": "Contract Law",
+    "year": 1872,
+    "content": "Definition of Contract.\n        An agreement enforceable by law is a contract. Agreement is made from offer and acceptance. \n        Agreement must be capable of being enforced by law to be a contract.",
+    "created_at": "2025-11-29T18:53:11.676135",
+    "updated_at": "2025-11-29T18:53:11.676136"
+  },
+  {
+    "id": "ICA_12",
+    "title": "Indian Contract Act - Section 12",
+    "jurisdiction": "India",
+    "category": "Contract Law",
+    "year": 1872,
+    "content": "Capacity to Contract.\n        Every person is competent to contract who is of the age of majority by the law to which he is \n        subject, and who is of sound mind, and is not disqualified from contracting by any law which \n        he is subject to.",
+    "created_at": "2025-11-29T18:53:11.676137",
+    "updated_at": "2025-11-29T18:53:11.676138"
+  },
+  {
+    "id": "ICA_65",
+    "title": "Indian Contract Act - Section 65",
+    "jurisdiction": "India",
+    "category": "Contract Law",
+    "year": 1872,
+    "content": "Obligation of Bailee when Goods are Bailed for Repair or Improvement.\n        When goods are bailed for repair or improvement, the bailee must restore the goods in good \n        condition within the time stipulated.",
+    "created_at": "2025-11-29T18:53:11.676139",
+    "updated_at": "2025-11-29T18:53:11.676139"
+  }
+]

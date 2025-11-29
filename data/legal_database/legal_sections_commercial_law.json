@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ITA_66",
+    "title": "Information Technology Act - Section 66",
+    "jurisdiction": "India",
+    "category": "Commercial Law",
+    "year": 2000,
+    "content": "Computer-related Offences: Hacking.\n        Whoever, with the intent to cause or knowing that he is likely to cause wrongful loss or damage \n        to the public or any person, by destroying or deleting or altering any information residing in \n        a computer shall be punished with imprisonment up to 3 years and/or fine up to 5 lakh rupees.",
+    "created_at": "2025-11-29T18:53:11.676151",
+    "updated_at": "2025-11-29T18:53:11.676152"
+  },
+  {
+    "id": "ITA_79",
+    "title": "Information Technology Act - Section 79",
+    "jurisdiction": "India",
+    "category": "Commercial Law",
+    "year": 2000,
+    "content": "Exemption from Liability.\n        An intermediary shall not be liable for any third-party information, data, or communication link \n        made available or hosted by the intermediary if the intermediary has exercised due diligence.",
+    "created_at": "2025-11-29T18:53:11.676153",
+    "updated_at": "2025-11-29T18:53:11.676154"
+  }
+]

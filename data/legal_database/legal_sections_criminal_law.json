@@ -1,0 +1,62 @@
+[
+  {
+    "id": "IPC_302",
+    "title": "Indian Penal Code - Section 302",
+    "jurisdiction": "India",
+    "category": "Criminal Law",
+    "year": 1860,
+    "content": "Punishment for Murder.\n        Whoever commits murder shall be punished with imprisonment of either description for a \n        term which may extend to life, or with rigorous imprisonment for a term which may extend \n        to ten years, and shall also be liable to fine, or to both. Exception: Death by accident \n        during lawful act is not murder.",
+    "created_at": "2025-11-29T18:53:11.676110",
+    "updated_at": "2025-11-29T18:53:11.676116"
+  },
+  {
+    "id": "IPC_420",
+    "title": "Indian Penal Code - Section 420",
+    "jurisdiction": "India",
+    "category": "Criminal Law",
+    "year": 1860,
+    "content": "Cheating and Dishonestly Inducing Delivery of Property.\n        Whoever cheats and thereby dishonestly induces the person deceived to deliver any \n        property to any person, or to make, alter or destroy the whole or any part of a valuable \n        security, or anything which is signed or sealed, with the intent that it may be used as \n        a valuable security, shall be punished with imprisonment of either description for a term \n        which may extend to seven years, and shall also be liable to fine.",
+    "created_at": "2025-11-29T18:53:11.676120",
+    "updated_at": "2025-11-29T18:53:11.676121"
+  },
+  {
+    "id": "IPC_354",
+    "title": "Indian Penal Code - Section 354",
+    "jurisdiction": "India",
+    "category": "Criminal Law",
+    "year": 1860,
+    "content": "Assault or Criminal Force with Intent to Outrage Modesty.\n        Whoever assaults or uses criminal force to any person, intending to outrage or knowing \n        it to be likely that he will thereby outrage the modesty of that person, shall be punished \n        with imprisonment which may extend to three years, or with fine which may extend to two \n        thousand rupees, or with both.",
+    "created_at": "2025-11-29T18:53:11.676122",
+    "updated_at": "2025-11-29T18:53:11.676123"
+  },
+  {
+    "id": "IPC_376",
+    "title": "Indian Penal Code - Section 376",
+    "jurisdiction": "India",
+    "category": "Criminal Law",
+    "year": 1860,
+    "content": "Punishment for Rape.\n        Whoever commits rape shall be punished with imprisonment of either description for a \n        term which shall not be less than seven years but which may be for life, and shall also \n        be liable to fine. Rape may be committed even without penetration if there is physical \n        contact with sexual intent.",
+    "created_at": "2025-11-29T18:53:11.676124",
+    "updated_at": "2025-11-29T18:53:11.676125"
+  },
+  {
+    "id": "IPC_498A",
+    "title": "Indian Penal Code - Section 498A",
+    "jurisdiction": "India",
+    "category": "Criminal Law",
+    "year": 1860,
+    "content": "Cruelty by Husband or His Relative.\n        Whoever, being the husband or the relative of the husband of a woman, subjects such woman \n        to cruelty shall be punished with imprisonment for a term which may extend to three years \n        and shall also be liable to fine which may extend to one thousand rupees.",
+    "created_at": "2025-11-29T18:53:11.676126",
+    "updated_at": "2025-11-29T18:53:11.676127"
+  },
+  {
+    "id": "BNS_101",
+    "title": "Bharatiya Nyaya Sanhita - Section 101",
+    "jurisdiction": "India",
+    "category": "Criminal Law",
+    "year": 2023,
+    "content": "Punishment for Murder.\n        Whoever commits murder shall be punished with life imprisonment or imprisonment up to \n        twenty years. This is part of new criminal code replacing IPC Section 302.",
+    "created_at": "2025-11-29T18:53:11.676155",
+    "updated_at": "2025-11-29T18:53:11.676156"
+  }
+]

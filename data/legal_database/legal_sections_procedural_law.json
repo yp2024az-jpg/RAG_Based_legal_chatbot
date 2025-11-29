@@ -1,0 +1,62 @@
+[
+  {
+    "id": "CRPC_154",
+    "title": "Criminal Procedure Code - Section 154",
+    "jurisdiction": "India",
+    "category": "Procedural Law",
+    "year": 1973,
+    "content": "Registration of First Information Report (FIR).\n        (1) Any person can lodge a First Information Report at the nearest police station regarding \n        any cognizable offence.\n        (2) The FIR must contain the basic facts and details of the alleged crime.\n        (3) If police refuse to register FIR, the person can approach the Magistrate under Section 156(3).",
+    "created_at": "2025-11-29T18:53:11.676128",
+    "updated_at": "2025-11-29T18:53:11.676129"
+  },
+  {
+    "id": "CRPC_161",
+    "title": "Criminal Procedure Code - Section 161",
+    "jurisdiction": "India",
+    "category": "Procedural Law",
+    "year": 1973,
+    "content": "Examination of Witnesses by Police.\n        Any police officer not below the rank of Sub-Inspector may examine any person supposed to \n        be acquainted with the facts and circumstances of the case. The examination shall be conducted \n        with due regard to the provisions of this Code and the Indian Evidence Act.",
+    "created_at": "2025-11-29T18:53:11.676130",
+    "updated_at": "2025-11-29T18:53:11.676131"
+  },
+  {
+    "id": "CRPC_164",
+    "title": "Criminal Procedure Code - Section 164",
+    "jurisdiction": "India",
+    "category": "Procedural Law",
+    "year": 1973,
+    "content": "Recording of Confessions and Statements.\n        When any person accused of an offence is arrested on a charge of committing an offence of \n        the description mentioned in sub-section (3), the police shall inform the person that he may \n        make a statement to a Magistrate. Any statement made to a Magistrate under this section \n        shall be recorded and shall not be used as evidence against the maker.",
+    "created_at": "2025-11-29T18:53:11.676132",
+    "updated_at": "2025-11-29T18:53:11.676132"
+  },
+  {
+    "id": "CRPC_498",
+    "title": "Criminal Procedure Code - Section 498",
+    "jurisdiction": "India",
+    "category": "Procedural Law",
+    "year": 1973,
+    "content": "Bail in Cognizable Cases.\n        In cases where bail is permissible, the police may release the accused on bail before or \n        after the lodging of FIR, without the permission of the Magistrate, on executing a bond.",
+    "created_at": "2025-11-29T18:53:11.676133",
+    "updated_at": "2025-11-29T18:53:11.676134"
+  },
+  {
+    "id": "CPC_2",
+    "title": "Code of Civil Procedure - Section 2",
+    "jurisdiction": "India",
+    "category": "Procedural Law",
+    "year": 1908,
+    "content": "Definitions in Code of Civil Procedure.\n        (a) Appeal means an application to a Court of appeal by an appellant against a decree passed by \n        a court subordinate to it.\n        (b) Appellant means a party who appeals from a decree.\n        (c) Defendant means any person sued or proceeded against in a court of law.",
+    "created_at": "2025-11-29T18:53:11.676140",
+    "updated_at": "2025-11-29T18:53:11.676141"
+  },
+  {
+    "id": "CPC_8",
+    "title": "Code of Civil Procedure - Section 8",
+    "jurisdiction": "India",
+    "category": "Procedural Law",
+    "year": 1908,
+    "content": "Jurisdiction of Courts.\n        The jurisdiction of courts shall be determined by: (a) the territory within their jurisdiction, \n        (b) the subject matter of the suit, (c) the value of the suit.",
+    "created_at": "2025-11-29T18:53:11.676142",
+    "updated_at": "2025-11-29T18:53:11.676143"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "IEA_3",
+    "title": "Indian Evidence Act - Section 3",
+    "jurisdiction": "India",
+    "category": "Evidence Law",
+    "year": 1872,
+    "content": "Application of Code to all Judicial Proceedings.\n        The provisions of this Act shall apply to all judicial proceedings in or before any Court, \n        including Courts Martial, other than proceedings before Parliament.",
+    "created_at": "2025-11-29T18:53:11.676144",
+    "updated_at": "2025-11-29T18:53:11.676145"
+  },
+  {
+    "id": "IEA_10",
+    "title": "Indian Evidence Act - Section 10",
+    "jurisdiction": "India",
+    "category": "Evidence Law",
+    "year": 1872,
+    "content": "Evidence of Facts Forming Part of Res Gestae.\n        Evidence of facts forming part of the same transaction is relevant whether the transaction is \n        one in issue or not.",
+    "created_at": "2025-11-29T18:53:11.676146",
+    "updated_at": "2025-11-29T18:53:11.676146"
+  }
+]

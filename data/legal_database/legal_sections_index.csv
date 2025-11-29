@@ -1,0 +1,24 @@
+id,title,jurisdiction,category,year,content_length,created_at
+IPC_302,Indian Penal Code - Section 302,India,Criminal Law,1860,355,2025-11-29T18:53:11.676110
+IPC_420,Indian Penal Code - Section 420,India,Criminal Law,1860,515,2025-11-29T18:53:11.676120
+IPC_354,Indian Penal Code - Section 354,India,Criminal Law,1860,389,2025-11-29T18:53:11.676122
+IPC_376,Indian Penal Code - Section 376,India,Criminal Law,1860,343,2025-11-29T18:53:11.676124
+IPC_498A,Indian Penal Code - Section 498A,India,Criminal Law,1860,315,2025-11-29T18:53:11.676126
+CRPC_154,Criminal Procedure Code - Section 154,India,Procedural Law,1973,370,2025-11-29T18:53:11.676128
+CRPC_161,Criminal Procedure Code - Section 161,India,Procedural Law,1973,322,2025-11-29T18:53:11.676130
+CRPC_164,Criminal Procedure Code - Section 164,India,Procedural Law,1973,417,2025-11-29T18:53:11.676132
+CRPC_498,Criminal Procedure Code - Section 498,India,Procedural Law,1973,220,2025-11-29T18:53:11.676133
+ICA_1,Indian Contract Act - Section 1,India,Contract Law,1872,201,2025-11-29T18:53:11.676135
+ICA_12,Indian Contract Act - Section 12,India,Contract Law,1872,252,2025-11-29T18:53:11.676137
+ICA_65,Indian Contract Act - Section 65,India,Contract Law,1872,215,2025-11-29T18:53:11.676139
+CPC_2,Code of Civil Procedure - Section 2,India,Procedural Law,1908,326,2025-11-29T18:53:11.676140
+CPC_8,Code of Civil Procedure - Section 8,India,Procedural Law,1908,199,2025-11-29T18:53:11.676142
+IEA_3,Indian Evidence Act - Section 3,India,Evidence Law,1872,224,2025-11-29T18:53:11.676144
+IEA_10,Indian Evidence Act - Section 10,India,Evidence Law,1872,177,2025-11-29T18:53:11.676146
+COI_21,Constitution of India - Article 21,India,Constitutional Law,1950,284,2025-11-29T18:53:11.676147
+COI_14,Constitution of India - Article 14,India,Constitutional Law,1950,167,2025-11-29T18:53:11.676150
+ITA_66,Information Technology Act - Section 66,India,Commercial Law,2000,346,2025-11-29T18:53:11.676151
+ITA_79,Information Technology Act - Section 79,India,Commercial Law,2000,233,2025-11-29T18:53:11.676153
+BNS_101,Bharatiya Nyaya Sanhita - Section 101,India,Criminal Law,2023,200,2025-11-29T18:53:11.676155
+IL_11,Industrial Disputes Act - Section 11,India,Labor Law,1947,245,2025-11-29T18:53:11.676157
+TPA_5,Transfer of Property Act - Section 5,India,Property Law,1882,239,2025-11-29T18:53:11.676158
