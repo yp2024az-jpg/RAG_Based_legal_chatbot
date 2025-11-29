@@ -1,0 +1,33 @@
+llm:
+  model: gemini-2.5-pro
+  temperature: 0.7
+  max_output_tokens: 2048
+  top_k: 40
+  top_p: 0.95
+
+retrieval:
+  method: hybrid
+  top_k: 5
+  faiss_weight: 0.6
+  bm25_weight: 0.4
+  embedding_model: sentence-transformers/all-MiniLM-L6-v2
+
+data_pipeline:
+  chunk_size: 512
+  chunk_overlap: 50
+  chunking_strategy: sentence
+
+memory:
+  stm_max_size: 10
+  stm_ttl_seconds: 3600
+  ltm_cache_days: 30
+
+database:
+  faiss_index_path: ./data/embeddings/faiss_index
+  chromadb_path: ./data/embeddings/chromadb
+  mongodb_uri: mongodb://localhost:27017/legal_db
+
+logging:
+  level: INFO
+  format: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+  file: ./logs/app.log
