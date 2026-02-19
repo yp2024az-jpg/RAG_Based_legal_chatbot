@@ -1,8 +1,6 @@
 # 🏛️ RAG-Based Legal Advisor Bot
 
-[![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker)](docker-compose.yml)
+
 
 A production-ready **Retrieval-Augmented Generation (RAG)** system for legal research and advisory. Combines semantic search (FAISS) with lexical matching (BM25) for accurate legal information retrieval.
 
@@ -323,3 +321,4 @@ MIT License - see LICENSE file for details.
 #   R A G _ B a s e d _ l e g a l _ c h a t b o t 
  
  
+
